@@ -32,7 +32,10 @@ gem 'paperclip', '~> 4.3.1'
 gem 'aws-sdk', '< 2.0'
 # jQuery masonry bundle
 gem 'masonry-rails', '~> 0.2.0'
-
+# Pagination Bundle
+gem 'will_paginate', '~> 3.0.5'
+# Bootstrap for will_paginate
+gem 'will_paginate-bootstrap'
 
 
 # Use ActiveModel has_secure_password
